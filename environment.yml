@@ -3,6 +3,7 @@ channels:
   - conda-forge
 dependencies:
   - python=3.12
+  - pip=24.3
   - pip:
     - easyocr==1.7.2
     - gradio==5.5
